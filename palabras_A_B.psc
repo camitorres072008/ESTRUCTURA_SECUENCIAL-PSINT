@@ -1,9 +1,10 @@
 Algoritmo palabras_A_B
-	Definir A, B como cadena
+	Definir A, B,C como cadena
 	Leer A
 	leer B
+    A=C
 	A=B
-	B=A
+	B=C
 	Escribir A
 	Escribir B
 	
